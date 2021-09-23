@@ -5,3 +5,4 @@ La idea es actulizar el proyecto con React para conectar el Back con el Front la
     *mariadb
     *nodemon
     *sequelize
+tuve problemas ya que la parte de routes no supe como poner la pruebas de errores con las peticiones como son get,put,post y delete solo lo puse esquematico como tal
