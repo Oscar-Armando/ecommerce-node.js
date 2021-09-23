@@ -1,0 +1,1 @@
+Mi proyecto es un ecommerce basado en venta de productos de energias renovables como son calentadores solares, motores electricos, sistema de captacion de agua de lluvia, paneles solares, etc. Tengo tambien una opcion para cotizar un proyecto personal para los clientes.
